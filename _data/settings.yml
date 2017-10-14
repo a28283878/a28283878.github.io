@@ -1,0 +1,20 @@
+title:  "Richard's Blog"
+tagline: ""
+description:
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+menu:
+- {name: 'Documents', folder: 'pages', file: 'documents.html'}
+
+social:
+- {icon: 'facebook', link: 'https://www.facebook.com/Richard.Richard.Richard.Richard.Richard.Richard.Ri'}
+- {icon: 'envelope', link: 'mailto:a28283878@gmail.com'}
+- {icon: 'github', link: 'https://github.com/a28283878'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
