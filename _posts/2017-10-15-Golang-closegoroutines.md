@@ -62,7 +62,6 @@ func main() {
 ```golang
 t T{"something"}
 
-m[t] = false //不用關閉
 go update(t)
 ```
 
@@ -70,7 +69,7 @@ go update(t)
 func update(t T){
     for{
 
-        if m[t]{
+        if m[t]{//若沒有m[t] 預設會是false
             //刪除map中的t
             Delete(m,t)
 
