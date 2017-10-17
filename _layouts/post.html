@@ -46,10 +46,10 @@ layout: default
 
   <div class="related">
     <h2>You may also enjoy...</h2>
-    {% assign listed_posts_urls = page.url | split: ' ' %}  
+    {% assign listed_posts_urls = page.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}
-        {% for mypost in site.tags[tag] limit:2 %}       
+        {% for mypost in site.tags[tag] limit:2 %}    
           {% if listed_posts_urls contains mypost.url %}
           {% else %}
             <li>
