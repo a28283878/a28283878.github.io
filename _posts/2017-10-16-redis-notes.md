@@ -2,9 +2,9 @@
 layout: post
 title: "Redis-基本使用方法"
 author: "Richard Lin"
-categories: redis
+categories: documents
 image:
-  feature: redis.jpg
+  feature: redis.png
 ---
 
 # 1. 設定單一Key對上單一值
