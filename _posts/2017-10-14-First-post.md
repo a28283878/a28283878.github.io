@@ -3,6 +3,7 @@ layout: post
 title: "Jekyll 使用教學"
 author: "Richard Lin"
 categories: documents
+tags: documents
 image:
   feature: jekyll.png
 ---
