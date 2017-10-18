@@ -5,7 +5,7 @@ author: "Richard Lin"
 categories: golang
 tags: golang
 image:
-  feature: golang2.png
+  feature: golang2.jpeg
 ---
 
 本篇主要是紀錄一下package `init()` 這func，當package被引用時是否會觸發，如果會觸發則何時觸發。<br>
