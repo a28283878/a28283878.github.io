@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Golang-如何在多個goroutine中 關閉特定一個"
+title: "Golang --- 如何在多個goroutine中 關閉特定一個"
 author: "Richard Lin"
 categories: golang
 tags: golang

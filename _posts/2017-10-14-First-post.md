@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll 使用教學"
+title: "Jekyll --- 使用教學"
 author: "Richard Lin"
 categories: documents
 tags: documents

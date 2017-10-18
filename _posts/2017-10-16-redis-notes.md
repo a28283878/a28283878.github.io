@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Redis-基本使用方法"
+title: "Redis --- 基本使用方法"
 author: "Richard Lin"
 categories: documents
 tags: documents
