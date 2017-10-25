@@ -5,7 +5,7 @@ author: "Richard Lin"
 categories: documents
 tags: documents
 image:
-  feature: 
+  feature: IOTA.jpg
 ---
 
 # IOTA
@@ -67,9 +67,30 @@ image:
 在這個section會定義交易的權重跟相關的理論。交易的權重是與其參與的工作量成正比的。
 目前線上的權重值只能為3^n，且n為介於一定區間的正整數。
 事實上，了解權重的算法是沒有意義的，只要知道的是所有的交易都有帶有一個正整數的權重值。
-通常來說，具有較大權重的交易是比較重要的。
-且
+通常來說，具有較大權重的交易是比較重要的。<br>
+且預設是沒有實體可以在短時間內產生大量含有可接受權重的交易，以防止垃圾交易以及一些攻擊。<br><br>
 
+其中一個需要的概念是交易的**漸增權重**。
+### 漸增權重(cumulative weight) ：
+權重是由自己的權重加上所有directly或indirectly approve這個交易的交易的權重。<br>
+漸增權重的示意圖為圖1
+
+### 名詞定義
+> **tips**：tangle graph中沒有被拒絕認可的交易，圖1上方的graph中tips為A, C。X 交易進來後，X變成唯一的tip。<br>
+> 交易的**height**：從該交易開始往genesis最長的路徑<br>
+> 交易的**depth**：從該交易開始往某個tip最長的路徑<br>
+
+舉例來說，在圖2時G的height為1而depth為4(path : F D B A)，D的height為3而depth為2。
+
+### 名詞定義
+> 交易的**score**：交易自己的權重加上所有該交易direct或indirect approve的權重。<br>
+
+舉例來說，在圖2時A的score為9(1 + 3 + 1 + 3 + 1)，而C的score為7(1 + 1 + 1 + 3 + 1)。
+
+### <br>**為了讓這paper更易讀，接下來的交易權重都會預設為1。**<br>
+在這預設下，所有交易的漸增權重都會是1加上所有directly跟indirectly approve此交易的交易的數量。<br>
+而score會是1加上此交易directly跟indirectly approve的數量。<br>
+### **在所有已經定義的名詞中，最重要的就是漸增權重(超級重要)**<br>
 
 <br>
 #### 圖<1>
@@ -79,3 +100,4 @@ image:
 #### 圖<2>
 * * *
 <img src="../assets/img/iota_2.png" style="width:100%;">
+
