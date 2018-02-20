@@ -10,10 +10,10 @@ image:
 
 ### 漫長的路途
 * * *
-<img src="../assets/img/czech/1.jpg" style="width:70%; border-radius:10px; padding:5px 0 5px 0;">
+<img src="../assets/img/czech/1.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
 這次從台灣到香港，再從香港到杜哈，再從香港到布拉格。一路上沒有特別的波折但卻依然的疲勞，搖晃的飛機搭配著美麗空姐就好像為這漫長交換之旅寫下序章，有令人擔心的阻礙也有令人期待的事物。<br>
 就這樣經過20小時順利到達了布拉格機場。
-<img src="../assets/img/czech/2.jpg" style="width:70%; border-radius:10px; padding:5px 0 5px 0;">
+<img src="../assets/img/czech/2.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
 
 ### 期待與落空
 * * *
@@ -26,6 +26,6 @@ image:
 ### 唉呦真的太美
 * * *
 布拉格這城市的美麗程度真的令人難以想像，這座古老的城市經過了多少風風雨雨多少貴族的興起與衰落造就了如今的布拉格。遍地的美麗建築盡收眼底，坐落於山上的城堡更是令人駐足。
-<img src="../assets/img/czech/3.jpg" style="width:70%; border-radius:10px; padding:5px 0 5px 0;">
-<img src="../assets/img/czech/4.jpg" style="width:70%; border-radius:10px; padding:5px 0 5px 0;">
-<img src="../assets/img/czech/5.jpg" style="width:70%; border-radius:10px; padding:5px 0 5px 0;">
+<img src="../assets/img/czech/3.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
+<img src="../assets/img/czech/4.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
+<img src="../assets/img/czech/5.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
