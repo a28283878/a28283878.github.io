@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Czech --- Kutna Hora晃晃晃"
+title: "Czech --- 開學囉"
 author: "Richard Lin"
 categories: czech
 tags: czech
