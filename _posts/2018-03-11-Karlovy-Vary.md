@@ -20,7 +20,7 @@ image:
 
 沿著河的附近也能找到許多小溫泉出口，這樣的溫泉不是拿來洗手不是拿來泡腳，通通都是拿來喝的。
 
-<img src="../assets/img/czech/46.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
+<img src="../assets/img/czech/47.jpg" style="width:80%; border-radius:10px; padding:5px 0 5px 0;">
 
 根據之前在城崎溫泉喝過溫泉水的經驗，對於這項舉動依然非常不解，感覺就是在喝滿滿金屬味的鹹水。真的只有難喝跟難喝，可是路上每人都是人手一杯，走路時不時啜飲一口，好似美酒在手中一樣怡然自得。又再一次佩服歐洲人的遲鈍味蕾。
 <br>
