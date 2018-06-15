@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- 開學囉"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-6.jpg

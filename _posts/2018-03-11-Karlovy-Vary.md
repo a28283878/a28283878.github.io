@@ -2,7 +2,7 @@
 layout: post
 title: "Karlovy Vary --- 溫泉不拿來泡，拿來喝的小鎮"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: karlovy_vary.jpg

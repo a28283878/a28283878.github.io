@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- 小城慶典"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-2.jpg

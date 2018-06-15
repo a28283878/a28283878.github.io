@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- Kutna Hora晃晃晃"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-5.jpg

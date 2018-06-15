@@ -2,7 +2,7 @@
 layout: post
 title: "London --- 英國五日遊"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: london.jpg

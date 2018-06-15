@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- 布拉格晃晃晃"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-4.jpg

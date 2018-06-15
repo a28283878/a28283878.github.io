@@ -2,7 +2,7 @@
 layout: post
 title: "Poland --- Poland 舊首都 Krakow"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: Krakow.jpg

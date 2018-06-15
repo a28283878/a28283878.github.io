@@ -12,7 +12,7 @@ disqus:
 menu:
 - {name: 'Documents', folder: 'pages', file: 'documents.html'}
 - {name: 'Golang', folder: 'pages', file: 'golang.html'}
-- {name: 'Czech', folder: 'pages', file: 'czech.html'}
+- {name: 'Travel', folder: 'pages', file: 'travel.html'}
 
 social:
 - {icon: 'facebook', link: 'https://www.facebook.com/Richard.Richard.Richard.Richard.Richard.Richard.Ri'}

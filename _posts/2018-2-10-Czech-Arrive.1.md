@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- 初到捷克"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-1.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- Cesky Krumlov 繞繞繞"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-7.jpg

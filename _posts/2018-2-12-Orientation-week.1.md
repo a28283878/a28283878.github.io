@@ -2,7 +2,7 @@
 layout: post
 title: "Czech --- 迎新周"
 author: "Richard Lin"
-categories: czech
+categories: travel
 tags: czech
 image:
   feature: czech-3.jpg
