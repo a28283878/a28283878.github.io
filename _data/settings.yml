@@ -13,6 +13,7 @@ menu:
 - {name: 'Documents', folder: 'pages', file: 'documents.html'}
 - {name: 'Golang', folder: 'pages', file: 'golang.html'}
 - {name: 'Travel', folder: 'pages', file: 'travel.html'}
+- {name: 'MachineLearning', folder: 'pages', file: 'ml.html'}
 
 social:
 - {icon: 'facebook', link: 'https://www.facebook.com/Richard.Richard.Richard.Richard.Richard.Richard.Ri'}
