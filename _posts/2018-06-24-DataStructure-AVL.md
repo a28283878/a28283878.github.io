@@ -2,8 +2,8 @@
 layout: post
 title: "Data Structure --- AVL tree"
 author: "Richard Lin"
-categories: documents
-tags: documents
+categories: data-structure
+tags: data-structure
 image:
   feature: data-structure.jpg
 ---
