@@ -10,6 +10,7 @@ disqus:
   disqus_shortname: 'richards-blog-1'
 
 menu:
+- {name: 'Papers', folder: 'pages', file: 'paper.html'}
 - {name: 'Documents', folder: 'pages', file: 'documents.html'}
 - {name: 'Golang', folder: 'pages', file: 'golang.html'}
 - {name: 'Travel', folder: 'pages', file: 'travel.html'}
