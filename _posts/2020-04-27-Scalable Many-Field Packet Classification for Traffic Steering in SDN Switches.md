@@ -36,6 +36,6 @@ Offline主要就是先處理ruleset的部分，而Online就是當packet經過swi
 首先先講offline這邊，offline最一開始會先讀取ruleset進來，然後會利用ruleset的疏密性來找出eb
 之後就可以透過eb來將ruleset切割為多個subset又稱為sample space，此時如果有新的rule近來也可以進行更新，然後產出一個look up table
 再來有封包近來switch的話就可以先使用lookup table來進行prefiltering，先從大量ruleset中快速過濾出幾個疑似的rule，最後使用那個封包與那些rule進行full matching
-去一一比對欄位，最後就執行最後match的rule的動作
+去一一比對欄位，最後就執行最後match的rule的動作。
 
 
